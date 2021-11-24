@@ -1,0 +1,155 @@
+source1,protein,chemical,start1,end1,source2,food,start2,end2,color
+Diabetic Nephropathy,GPR120,16-Hydroxy-hexadecanoic acid,5,10,food,Common pea,4,5,#44ff00
+Diabetic Nephropathy,GPR120,16-Hydroxy-hexadecanoic acid,5,10,food,Common wheat,28,29,#44ff00
+Diabetic Nephropathy,GPR120,16-Hydroxy-hexadecanoic acid,5,10,food,Breakfast cereal,67,68,#44ff00
+Diabetic Nephropathy,GPR120,16-Hydroxy-hexadecanoic acid,5,10,food,Sweet orange,92,93,#44ff00
+Diabetic Nephropathy,GPR120,16-Hydroxy-hexadecanoic acid,5,10,food,Millet,116,117,#44ff00
+Diabetic Nephropathy,GPR120,16-Hydroxy-hexadecanoic acid,5,10,food,Corn,140,141,#44ff00
+Diabetic Nephropathy,GPR120,16-oxo-palmitate,45,50,food,Common pea,12,13,#007bff
+Diabetic Nephropathy,GPR120,16-oxo-palmitate,45,50,food,Common wheat,32,33,#007bff
+Diabetic Nephropathy,GPR120,16-oxo-palmitate,45,50,food,Breakfast cereal,75,76,#007bff
+Diabetic Nephropathy,GPR120,16-oxo-palmitate,45,50,food,Sweet orange,100,101,#007bff
+Diabetic Nephropathy,GPR120,16-oxo-palmitate,45,50,food,Millet,124,125,#007bff
+Diabetic Nephropathy,GPR120,16-oxo-palmitate,45,50,food,Corn,148,149,#007bff
+Cardiovascular & Cardiomyopathy,PPARA,2-Methylthioribosyl-trans-zeatin,1,5,food,Common pea,1,2,#ff0000
+Cardiovascular & Cardiomyopathy,PPARA,2-Methylthioribosyl-trans-zeatin,1,5,food,Common wheat,25,26,#ff0000
+Diabetic Nephropathy,GPR120,22-hydroxydocosanoate,50,55,food,Common pea,13,14,#0044ff
+Diabetic Nephropathy,GPR120,22-hydroxydocosanoate,50,55,food,Common wheat,33,34,#0044ff
+Diabetic Nephropathy,GPR120,22-hydroxydocosanoate,50,55,food,Breakfast cereal,76,77,#0044ff
+Diabetic Nephropathy,GPR120,22-hydroxydocosanoate,50,55,food,Sweet orange,101,102,#0044ff
+Diabetic Nephropathy,GPR120,22-hydroxydocosanoate,50,55,food,Millet,125,126,#0044ff
+Diabetic Nephropathy,GPR120,22-hydroxydocosanoate,50,55,food,Corn,149,150,#0044ff
+Diabetic Nephropathy,GPR120,22-oxo-docosanoate,55,60,food,Common pea,14,15,#0026ff
+Diabetic Nephropathy,GPR120,22-oxo-docosanoate,55,60,food,Common wheat,34,35,#0026ff
+Diabetic Nephropathy,GPR120,22-oxo-docosanoate,55,60,food,Breakfast cereal,77,78,#0026ff
+Diabetic Nephropathy,GPR120,22-oxo-docosanoate,55,60,food,Sweet orange,102,103,#0026ff
+Diabetic Nephropathy,GPR120,22-oxo-docosanoate,55,60,food,Millet,126,127,#0026ff
+Diabetic Nephropathy,GPR120,22-oxo-docosanoate,55,60,food,Corn,150,151,#0026ff
+Diabetic Nephropathy,GPR120,behenate,60,65,food,Common pea,15,16,#5500ff
+Diabetic Nephropathy,GPR120,behenate,60,65,food,Common wheat,35,36,#5500ff
+Diabetic Nephropathy,GPR120,behenate,60,65,food,Breakfast cereal,78,79,#5500ff
+Diabetic Nephropathy,GPR120,behenate,60,65,food,Sweet orange,103,104,#5500ff
+Diabetic Nephropathy,GPR120,behenate,60,65,food,Millet,127,128,#5500ff
+Diabetic Nephropathy,GPR120,behenate,60,65,food,Corn,151,152,#5500ff
+Diabetic Nephropathy,GPR120,Carnaubic acid,120,125,food,Arabica coffee,163,164,#660e33
+Dietbetic Keratopathy,TLR4,Citrusin III,1,5,food,Sweet orange,90,91,#ffff45
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Common pea,11,12,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Common wheat,31,32,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Arabica coffee,53,54,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Robusta coffee,63,64,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Breakfast cereal,74,75,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Sweet orange,99,100,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Millet,123,124,#007bff
+Diabetic Nephropathy,GPR120,Decanoic acid,40,45,food,Corn,147,148,#007bff
+Diabetic Nephropathy,GPR120,dihydrosterculate,65,70,food,Common pea,16,17,#6a00ff
+Diabetic Nephropathy,GPR120,dihydrosterculate,65,70,food,Common wheat,36,37,#6a00ff
+Diabetic Nephropathy,GPR120,dihydrosterculate,65,70,food,Breakfast cereal,79,80,#6a00ff
+Diabetic Nephropathy,GPR120,dihydrosterculate,65,70,food,Sweet orange,104,105,#6a00ff
+Diabetic Nephropathy,GPR120,dihydrosterculate,65,70,food,Millet,128,129,#6a00ff
+Diabetic Nephropathy,GPR120,dihydrosterculate,65,70,food,Corn,152,153,#6a00ff
+Diabetic Nephropathy,GPR120,docosanedioate,70,75,food,Common pea,17,18,#9900ff
+Diabetic Nephropathy,GPR120,docosanedioate,70,75,food,Common wheat,37,38,#9900ff
+Diabetic Nephropathy,GPR120,docosanedioate,70,75,food,Breakfast cereal,80,81,#9900ff
+Diabetic Nephropathy,GPR120,docosanedioate,70,75,food,Sweet orange,105,106,#9900ff
+Diabetic Nephropathy,GPR120,docosanedioate,70,75,food,Millet,129,130,#9900ff
+Diabetic Nephropathy,GPR120,docosanedioate,70,75,food,Corn,153,154,#9900ff
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Common pea,11,12,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Common wheat,31,32,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Arabica coffee,53,54,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Robusta coffee,63,64,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Breakfast cereal,74,75,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Sweet orange,99,100,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Millet,123,124,#00ff8c
+Diabetic Nephropathy,GPR120,Dodecanoic acid,10,15,food,Corn,147,148,#00ff8c
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Common pea,8,9,#00fffb
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Arabica coffee,49,50,#00fffb
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Robusta coffee,59,60,#00fffb
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Breakfast cereal,71,72,#00fffb
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Sweet orange,96,97,#00fffb
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Millet,120,121,#00fffb
+Diabetic Nephropathy,GPR120,Heptadecanoic acid,25,30,food,Corn,144,145,#00fffb
+Diabetic Nephropathy,GPR120,heptanoate,75,80,food,Common pea,18,19,#bb00ff
+Diabetic Nephropathy,GPR120,heptanoate,75,80,food,Common wheat,38,39,#bb00ff
+Diabetic Nephropathy,GPR120,heptanoate,75,80,food,Breakfast cereal,81,82,#bb00ff
+Diabetic Nephropathy,GPR120,heptanoate,75,80,food,Sweet orange,106,107,#bb00ff
+Diabetic Nephropathy,GPR120,heptanoate,75,80,food,Millet,130,131,#bb00ff
+Diabetic Nephropathy,GPR120,heptanoate,75,80,food,Corn,154,155,#bb00ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Common pea,9,10,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Arabica coffee,50,51,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Arabica coffee,51,52,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Robusta coffee,60,61,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Robusta coffee,61,62,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Breakfast cereal,72,73,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Sweet orange,97,98,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Millet,121,122,#00d5ff
+Diabetic Nephropathy,GPR120,Heptanoic acid,30,35,food,Corn,145,146,#00d5ff
+Diabetic Nephropathy,GPR120,hexadecanedioate,80,85,food,Common pea,19,20,#cc00ff
+Diabetic Nephropathy,GPR120,hexadecanedioate,80,85,food,Common wheat,39,40,#cc00ff
+Diabetic Nephropathy,GPR120,hexadecanedioate,80,85,food,Breakfast cereal,82,83,#cc00ff
+Diabetic Nephropathy,GPR120,hexadecanedioate,80,85,food,Sweet orange,107,108,#cc00ff
+Diabetic Nephropathy,GPR120,hexadecanedioate,80,85,food,Millet,131,132,#cc00ff
+Diabetic Nephropathy,GPR120,hexadecanedioate,80,85,food,Corn,155,156,#cc00ff
+Diabetic Nephropathy,GPR120,Isobehenic acid,115,120,food,Corn,162,163,#750031
+Diabetic Nephropathy,GPR120,myristate,85,90,food,Common pea,20,21,#ea00ff
+Diabetic Nephropathy,GPR120,myristate,85,90,food,Common wheat,40,41,#ea00ff
+Diabetic Nephropathy,GPR120,myristate,85,90,food,Breakfast cereal,83,84,#ea00ff
+Diabetic Nephropathy,GPR120,myristate,85,90,food,Sweet orange,108,109,#ea00ff
+Diabetic Nephropathy,GPR120,myristate,85,90,food,Millet,132,133,#ea00ff
+Diabetic Nephropathy,GPR120,myristate,85,90,food,Corn,156,157,#ea00ff
+Cardiovascular & Cardiomyopathy,PKCB,Nb-p-Coumaroyltryptamine,15,20,food,Breakfast cereal,138,139,#fff700
+Diabetic Nephropathy,GPR120,Norecasantalic acid,110,115,food,Breakfast cereal,161,162,#91003d
+Diabetic Nephropathy,GPR120,octanoate,90,95,food,Common pea,21,22,#f700ff
+Diabetic Nephropathy,GPR120,octanoate,90,95,food,Common wheat,41,42,#f700ff
+Diabetic Nephropathy,GPR120,octanoate,90,95,food,Breakfast cereal,84,85,#f700ff
+Diabetic Nephropathy,GPR120,octanoate,90,95,food,Sweet orange,109,110,#f700ff
+Diabetic Nephropathy,GPR120,octanoate,90,95,food,Millet,133,134,#f700ff
+Diabetic Nephropathy,GPR120,octanoate,90,95,food,Corn,157,158,#f700ff
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Common pea,7,8,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Common wheat,30,31,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Arabica coffee,48,49,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Robusta coffee,58,59,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Breakfast cereal,70,71,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Sweet orange,95,96,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Millet,119,120,#00ffd0
+Diabetic Nephropathy,GPR120,Octanoic acid,20,25,food,Corn,143,144,#00ffd0
+Diabetic Nephropathy,GPR120,omega-hydroxylaurate,105,110,food,Common pea,24,25,#d10057
+Diabetic Nephropathy,GPR120,omega-hydroxylaurate,105,110,food,Common wheat,44,45,#d10057
+Diabetic Nephropathy,GPR120,omega-hydroxylaurate,105,110,food,Breakfast cereal,87,88,#d10057
+Diabetic Nephropathy,GPR120,omega-hydroxylaurate,105,110,food,Sweet orange,112,113,#d10057
+Diabetic Nephropathy,GPR120,omega-hydroxylaurate,105,110,food,Millet,136,137,#d10057
+Diabetic Nephropathy,GPR120,omega-hydroxylaurate,105,110,food,Corn,160,161,#d10057
+Diabetic Nephropathy,GPR120,palmitate,95,100,food,Common pea,22,23,#d100a4
+Diabetic Nephropathy,GPR120,palmitate,95,100,food,Common wheat,42,43,#d100a4
+Diabetic Nephropathy,GPR120,palmitate,95,100,food,Breakfast cereal,85,86,#d100a4
+Diabetic Nephropathy,GPR120,palmitate,95,100,food,Sweet orange,110,111,#d100a4
+Diabetic Nephropathy,GPR120,palmitate,95,100,food,Millet,134,135,#d100a4
+Diabetic Nephropathy,GPR120,palmitate,95,100,food,Corn,158,159,#d100a4
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Common pea,10,11,#00aeff
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Arabica coffee,52,53,#00aeff
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Robusta coffee,62,63,#00aeff
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Breakfast cereal,73,74,#00aeff
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Sweet orange,98,99,#00aeff
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Millet,122,123,#00aeff
+Diabetic Nephropathy,GPR120,Pentadecanoic acid,35,40,food,Corn,146,147,#00aeff
+Diabetic Nephropathy,SGLT2,Phlorizin,1,5,food,Common pea,3,4,#aaff00
+Diabetic Nephropathy,SGLT2,Phlorizin,1,5,food,Common wheat,27,28,#aaff00
+Diabetic Nephropathy,SGLT2,Phlorizin,1,5,food,Breakfast cereal,66,67,#aaff00
+Diabetic Nephropathy,SGLT2,Phlorizin,1,5,food,Sweet orange,91,92,#aaff00
+Diabetic Nephropathy,SGLT2,Phlorizin,1,5,food,Millet,114,115,#aaff00
+Diabetic Nephropathy,SGLT2,Phlorizin,1,5,food,Corn,138,139,#aaff00
+Diabetic Nephropathy,GPR120,stearate,100,105,food,Common pea,23,24,#d10081
+Diabetic Nephropathy,GPR120,stearate,100,105,food,Common wheat,43,44,#d10081
+Diabetic Nephropathy,GPR120,stearate,100,105,food,Breakfast cereal,86,87,#d10081
+Diabetic Nephropathy,GPR120,stearate,100,105,food,Sweet orange,111,112,#d10081
+Diabetic Nephropathy,GPR120,stearate,100,105,food,Millet,135,136,#d10081
+Diabetic Nephropathy,GPR120,stearate,100,105,food,Corn,159,160,#d10081
+Diabetic Nephropathy,NRF2,Strigol,125,130,food,Millet,115,116,#6e2745
+Diabetic Nephropathy,NRF2,Strigol,125,130,food,Corn,139,140,#6e2745
+Cardiovascular & Cardiomyopathy,YAP,Thalictroidine,5,10,food,Arabica coffee,45,46,#ff6600
+Cardiovascular & Cardiomyopathy,YAP,Thalictroidine,5,10,food,Robusta coffee,55,56,#ff6600
+Cardiovascular & Cardiomyopathy,PI3K,tricoumaroyl spermidine,10,15,food,Common pea,2,3,#ffbb00
+Cardiovascular & Cardiomyopathy,PI3K,tricoumaroyl spermidine,10,15,food,Common wheat,26,27,#ffbb00
+Cardiovascular & Cardiomyopathy,PI3K,tricoumaroyl spermidine,10,15,food,Breakfast cereal,64,65,#ffbb00
+Cardiovascular & Cardiomyopathy,PI3K,tricoumaroyl spermidine,10,15,food,Sweet orange,89,90,#ffbb00
+Cardiovascular & Cardiomyopathy,PI3K,tricoumaroyl spermidine,10,15,food,Millet,113,114,#ffbb00
+Cardiovascular & Cardiomyopathy,PI3K,tricoumaroyl spermidine,10,15,food,Corn,137,138,#ffbb00

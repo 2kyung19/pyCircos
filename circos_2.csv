@@ -1,0 +1,17 @@
+﻿key,protein,start,end,color
+Cardiovascular & Cardiomyopathy,PPARA,1,5,#F5F5F5
+Cardiovascular & Cardiomyopathy,YAP,5,10,#D2D2D2
+Cardiovascular & Cardiomyopathy,PI3K,10,15,#F5F5F5
+Cardiovascular & Cardiomyopathy,PKCB,15,20,#D2D2D2
+Dietbetic Keratopathy,TLR4,1,5,#F5F5F5
+Diabetic Nephropathy,SGLT2,1,5,#D2D2D2
+Diabetic Nephropathy,GPR120,5,125,#F5F5F5
+Diabetic Nephropathy,NRF2,125,130,#D2D2D2
+food,Common pea,1,25,#ffa8a8
+food,Common wheat,25,45,#ffe6a8
+food,Arabica coffee,45,55,#d3ffa8
+food,Robusta coffee,55,64,#a8ffde
+food,Breakfast cereal,64,89,#a8e5ff
+food,Sweet orange,89,113,#a9a8ff
+food,Millet,113,137,#d9a8ff
+food,Corn,137,164,#fba8ff
